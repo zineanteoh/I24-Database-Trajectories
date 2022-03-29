@@ -1,10 +1,6 @@
 # raw_trajectories
 
-> Stored in
->
-> Database: 'trajectories'
->
-> Collection: 'raw_trajectories'
+Stored in `raw_trajectories` collection under `trajectories` database in MongoDB.
 
 ## Description
 
@@ -13,7 +9,7 @@ Overview of the simulation trajectory
 | Property            | Descrpition       |
 | ------------------- | ----------------- |
 | Simulation Software | TransModeler, ... |
-| Total Duration      | X minutes         |
+| Total Duration      | 89 minutes        |
 | Total Distance      | 20,000(?) meters  |
 | Size                | X GB              |
 | # of lanes          | 4                 |

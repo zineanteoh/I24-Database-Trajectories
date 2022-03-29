@@ -1,10 +1,6 @@
 # ground_truth_trajectories
 
-> Stored in
->
-> Database: 'trajectories'
->
-> Collection: 'ground_truth_trajectories'
+Stored in `ground_truth_trajectories` collection under `trajectories` database in MongoDB.
 
 ## Description
 
@@ -17,7 +13,7 @@ Overview of the simulation trajectory
 | Total Distance      | 20,000(?) meters  |
 | Size                | 18.094 GB         |
 | # of lanes          | 4                 |
-| # of trajectories   | X                 |
+| # of trajectories   | 24747             |
 
 ## Schema
 
