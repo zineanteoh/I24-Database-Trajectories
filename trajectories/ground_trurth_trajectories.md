@@ -4,16 +4,16 @@ Stored in `ground_truth_trajectories` collection under `trajectories` database i
 
 ## Description
 
-Overview of the simulation trajectory
+Overview of `ground_truth_trajectories`
 
-| Property            | Descrpition       |
-| ------------------- | ----------------- |
-| Simulation Software | TransModeler, ... |
-| Total Duration      | 89 minutes        |
-| Total Distance      | 20,000(?) meters  |
-| Size                | 18.094 GB         |
-| # of lanes          | 4                 |
-| # of trajectories   | 24747             |
+| Property               | Descrpition   |
+| ---------------------- | ------------- |
+| Simulation Software    | TransModeler  |
+| Simulation Duration    | 89 minutes    |
+| Size                   | 10.813 GB     |
+| x_range                | 20,753 meters |
+| Number of trajectories | 24747         |
+| Number of lanes        | 4             |
 
 ## Schema
 

@@ -4,16 +4,16 @@ Stored in `raw_trajectories` collection under `trajectories` database in MongoDB
 
 ## Description
 
-Overview of the simulation trajectory
+Overview of `raw_trajectories`
 
-| Property            | Descrpition       |
-| ------------------- | ----------------- |
-| Simulation Software | TransModeler, ... |
-| Total Duration      | 89 minutes        |
-| Total Distance      | 20,000(?) meters  |
-| Size                | X GB              |
-| # of lanes          | 4                 |
-| # of trajectories   | X                 |
+| Property               | Descrpition   |
+| ---------------------- | ------------- |
+| Simulation Software    | TransModeler  |
+| Simulation Duration    | 89 minutes    |
+| Size                   | X GB          |
+| x_range                | 20,753 meters |
+| Number of trajectories | 1266229       |
+| Number of lanes        | 4             |
 
 ## Schema
 
